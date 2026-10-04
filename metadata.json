@@ -1,0 +1,6 @@
+{
+  "name": "UniVerse",
+  "description": "One App. Every Student. Infinite Possibilities. Cosmic educational super app with AI Tutor, courses, study planner, mock tests, community, and career hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
